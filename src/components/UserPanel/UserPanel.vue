@@ -9,7 +9,7 @@
                             <p>{{ UserName }}</p>
                             <p>{{ UserPhone }}</p>
                             <p>{{ UserMail }}</p>
-                            <p>Рейтинг: {{ UserRating }}</p>
+                            <p>РейтинГ: {{ UserRating }}</p>
                             <p>Баланс: {{ UserBalance }}</p>
                         </div>
                     </div>
